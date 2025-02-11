@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -3 | head
+head --lines=[3] iacta
